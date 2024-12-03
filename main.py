@@ -1,1 +1,1 @@
-print("This is your sandbox! Feel free to experiment.")
+print("Tervetuloa Numeron Arvaus -peliin!")
