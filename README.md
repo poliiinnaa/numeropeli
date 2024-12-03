@@ -6,7 +6,7 @@ Interaktiivinen tekstipohjainen peli, jossa tietokone arpoo pelaajalle numeron v
 - Käytämme ohjelmointirakenteina silmukoita, ehtoja ja satunnaisgeneraattoria.
 
 ## Käynnistä peli
-1. Asenna Python 3.x.
+1. Asenna Visual Studio Code.
 2. Lataa tiedostot ja suorita komento:
 
 ![Pelin vuokaavio]( osoite )
