@@ -7,6 +7,6 @@ Interaktiivinen tekstipohjainen peli, jossa tietokone arpoo pelaajalle numeron v
 
 ## Käynnistä peli
 1. Asenna Visual Studio Code.
-2. Lataa tiedostot ja suorita komento:
+2. Lataa tiedostot ja suorita komento
 
 ![Pelin vuokaavio]( osoite )
