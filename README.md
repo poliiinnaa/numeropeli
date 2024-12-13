@@ -23,4 +23,4 @@ Interaktiivinen tekstipohjainen peli, jossa tietokone arpoo pelaajalle numeron v
 1. Asenna Visual Studio Code.
 2. Lataa tiedostot ja suorita komento
 
-![Pelin vuokaavio]  https://drive.google.com/file/d/1SPpCshjy4c4O009aJQC_pWQyKpM14oPm/view?usp=sharing
+Pelin vuokaavio:  https://drive.google.com/file/d/1SPpCshjy4c4O009aJQC_pWQyKpM14oPm/view?usp=sharing
