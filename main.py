@@ -4,7 +4,7 @@ import random
 oikea_numero = random.randint(1, 100)
 
 print("Tervetuloa Numeron Arvaus -peliin!")
-print("Tietokone on arvonnut numeron väliltä 1-100.")
+print("Tietokone on arponnut numeron väliltä 1-100.")
 
 while True:
     arvaus = int(input("Anna arvauksesi: "))
